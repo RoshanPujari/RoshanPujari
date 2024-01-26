@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=775BF7&random=false&width=435&lines=I+do+code+and+other+stuffs+too.)](https://git.io/typing-svg)
 <!--
 **RoshanPujari/RoshanPujari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
