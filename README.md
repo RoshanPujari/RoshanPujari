@@ -29,9 +29,9 @@
 ---
 ### :man_technologist: About Me :
 
-<h2>
+<h3>
   I am aspiring to be a Backend Developer and Game Developer.
-</h2>
+</h3>
 
 - :telescope: I’m working as a Student.
 
@@ -53,6 +53,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=775BF7&random=false&width=435&lines=I+do+code+and+other+stuffs+too.)](https://git.io/typing-svg)
 <!--
