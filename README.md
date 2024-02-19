@@ -60,9 +60,10 @@
 
 <h2>
   Streak
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RoshanPujari&theme=radical&hide_border=true)](https://git.io/streak-stats)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RoshanPujari&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 <h2>
   Streak
