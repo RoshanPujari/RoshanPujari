@@ -15,7 +15,9 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=RoshanPujari&style=flat-square&color=blue" alt=""/>
+<div id="badges" align="center>
+  <img src="https://komarev.com/ghpvc/?username=RoshanPujari&style=flat-square&color=blue" alt=""/>
+</div>
 
 <h1>
   Hey there
@@ -60,7 +62,7 @@
 
 <h2>
   Streak
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZnaDQ3ZGlsYTN1NHh2aDljaXFyOWt5aTJ5c3BjdXo2ZHhkM2o5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tLeSMZkTzPU6MKsEAk/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZnaDQ3ZGlsYTN1NHh2aDljaXFyOWt5aTJ5c3BjdXo2ZHhkM2o5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tLeSMZkTzPU6MKsEAk/giphy.gif" width="60px"/>
 </h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RoshanPujari&theme=radical&hide_border=true)](https://git.io/streak-stats)
