@@ -77,6 +77,7 @@
   Streak
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanPujari&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>
