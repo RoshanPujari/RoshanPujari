@@ -26,6 +26,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk1czZlbWM3dDZvdWc2eHJxaHZoenJ4bWVkcjA2cTFnMGhjYW81aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=775BF7&random=false&width=435&lines=I+do+code+and+other+stuffs+too.)](https://git.io/typing-svg)
 <!--
 
