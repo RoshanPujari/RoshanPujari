@@ -60,7 +60,7 @@
 
 <h2>
   Streak
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp2dHJtcGE2OWV2enU1MXg5cTh2MmhkZmJsZjB5aDRkNGNiY3hjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dQEp7oSwNlPCzTHy59/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZnaDQ3ZGlsYTN1NHh2aDljaXFyOWt5aTJ5c3BjdXo2ZHhkM2o5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tLeSMZkTzPU6MKsEAk/giphy.gif" width="30px"/>
 </h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RoshanPujari&theme=radical&hide_border=true)](https://git.io/streak-stats)
@@ -74,7 +74,7 @@
 
 <h2>
   Grade
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE1b3UyZ3QxMXN4MzgzaTE4bTg0NHQxZGx0Mmd2cXQ4bTZ3bXVtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mr1Y20DOOU1awBRjiP/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW0xM3F4ZW56MnhrOXVrOWZkZmRvOWJhYWlzYWcwNDh5OHhyaWlnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5JS8cUi503IM2sZrJA/giphy.gif" width="30px"/>
 </h2>
 
 ![Kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanPujari&show_icons=true&theme=radical&hide_border=true)
@@ -86,7 +86,7 @@
 **RoshanPujari/RoshanPujari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning Java & spring
@@ -96,3 +96,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
