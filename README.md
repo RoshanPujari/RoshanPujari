@@ -55,7 +55,7 @@
 </div>
 
 ### :fire: My Stats :
-[![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=RoshanPujari)]
+[![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=RoshanPujari&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=775BF7&random=false&width=435&lines=I+do+code+and+other+stuffs+too.)](https://git.io/typing-svg)
 <!--
