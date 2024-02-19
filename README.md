@@ -55,9 +55,9 @@
 </div>
 
 ### :fire: My Stats :
-[![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=RoshanPujari&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RoshanPujari&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanPujari&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=775BF7&random=false&width=435&lines=I+do+code+and+other+stuffs+too.)](https://git.io/typing-svg)
 <!--
