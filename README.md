@@ -22,6 +22,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=775BF7&random=false&width=435&lines=I+do+code+and+other+stuffs+too.)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk1czZlbWM3dDZvdWc2eHJxaHZoenJ4bWVkcjA2cTFnMGhjYW81aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="600" height="300"/>
 </div>
@@ -59,7 +61,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanPujari&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=775BF7&random=false&width=435&lines=I+do+code+and+other+stuffs+too.)](https://git.io/typing-svg)
 <!--
 
 **RoshanPujari/RoshanPujari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
