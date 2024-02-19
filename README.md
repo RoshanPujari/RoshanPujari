@@ -57,10 +57,23 @@
 </div>
 
 ### :fire: My Stats :
+
+<h2>
+  Streak
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RoshanPujari&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+<h2>
+  Streak
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanPujari&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2>
+  Streak
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
 ![Kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanPujari&show_icons=true&theme=radical&hide_border=true)
 
 
