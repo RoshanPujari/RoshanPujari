@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=6c09b952pll398tk0qrkey6ty90d2s8helis1yp1mxgeua4z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100"/>
 </div>
@@ -15,7 +14,7 @@
   </a>
 </div>
 
-<div id="badges" align="center>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=RoshanPujari&style=flat-square&color=blue" alt=""/>
 </div>
 
