@@ -27,6 +27,19 @@
 </div>
 
 ---
+### :man_technologist: About Me :
+
+<h2>
+  I am aspiring to be a Backend Developer and Game Developer.
+</h2>
+
+- :telescope: I’m working as a Student.
+
+- :seedling: Exploring ___.
+
+- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-pujari-442a2a224/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=775BF7&random=false&width=435&lines=I+do+code+and+other+stuffs+too.)](https://git.io/typing-svg)
 <!--
