@@ -60,30 +60,23 @@
 
 <h2>
   Streak
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp2dHJtcGE2OWV2enU1MXg5cTh2MmhkZmJsZjB5aDRkNGNiY3hjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dQEp7oSwNlPCzTHy59/giphy.gif" width="30px"/>
 </h2>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RoshanPujari&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <h2>
-  Streak
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Top Languages
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNvNjdlN3pua2E2bGRuOWVvbXNraGJhbmU0NzZuamgzYXBzbjRudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcGO8JJLMfEhYis/giphy.gif" width="30px"/>
 </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanPujari&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>
-  Streak
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Grade
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE1b3UyZ3QxMXN4MzgzaTE4bTg0NHQxZGx0Mmd2cXQ4bTZ3bXVtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mr1Y20DOOU1awBRjiP/giphy.gif" width="30px"/>
 </h2>
+
 ![Kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanPujari&show_icons=true&theme=radical&hide_border=true)
 
 
