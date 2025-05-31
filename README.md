@@ -65,13 +65,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanPujari&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 <h2>
   Grade
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW0xM3F4ZW56MnhrOXVrOWZkZmRvOWJhYWlzYWcwNDh5OHhyaWlnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5JS8cUi503IM2sZrJA/giphy.gif" width="30px"/>
 </h2>
 
 ![Kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanPujari&show_icons=true&theme=radical&hide_border=true)
-
+-->
 
 
 <!--
