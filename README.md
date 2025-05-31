@@ -20,7 +20,7 @@
 
 <h3>
   Trying to be a Cracked Dev
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>-->
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=775BF7&random=false&width=435&lines=I+do+code+and+other+stuffs+too.)](https://git.io/typing-svg)
@@ -49,7 +49,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
 <!--
 <h2>
   Streak
