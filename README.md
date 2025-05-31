@@ -18,10 +18,10 @@
   <img src="https://komarev.com/ghpvc/?username=RoshanPujari&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
-  Hey there
+<h3>
+  Trying to be a Cracked Dev
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=775BF7&random=false&width=435&lines=I+do+code+and+other+stuffs+too.)](https://git.io/typing-svg)
 
@@ -31,11 +31,11 @@
 
 ---
 ### 🥴
-
+<!--
 <h3>Trying to be a Cracked Dev </h3>
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-pujari-442a2a224/)
-
+-->
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -50,13 +50,14 @@
 </div>
 
 ### :fire: My Stats :
-
+<!--
 <h2>
   Streak
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZnaDQ3ZGlsYTN1NHh2aDljaXFyOWt5aTJ5c3BjdXo2ZHhkM2o5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tLeSMZkTzPU6MKsEAk/giphy.gif" width="60px"/>
 </h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RoshanPujari&theme=radical&hide_border=true)](https://git.io/streak-stats)
+-->
 
 <h2>
   Top Languages
