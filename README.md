@@ -30,17 +30,9 @@
 </div>
 
 ---
-### :man_technologist: About Me :
+### 🥴
 
-<h3>
-  I am aspiring to be a Backend Developer and Game Developer.
-</h3>
-
-- :telescope: I’m working as a Student.
-
-- :seedling: Exploring ___.
-
-- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
+<h3>Trying to be a Cracked Dev </h3>
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-pujari-442a2a224/)
 
